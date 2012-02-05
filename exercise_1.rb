@@ -1,5 +1,5 @@
 address = 'http://satishtalim.github.com/webruby/chapter3.html'
-regex = /\bthe\b/
+regex = /\b[tT]he\b/
 
 # Using net/http library
 require 'net/http'
